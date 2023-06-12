@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Electricity Consumption Retriever](https://github.com/sofisofa/electricity-consumption-retriever.git)
 
-- 🌱 I’m currently learning **Python, FastAPI, Machine Learning and more...**
+- 🌱 I’m currently learning **FastAPI, Machine Learning and more...**
 
 - ⚡ Fun fact **I play the electric bass!**
 
